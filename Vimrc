@@ -1,0 +1,8 @@
+  1 :set number
+  2 :filetype indent on
+  3 :syntax enable
+  4 :set tabstop=4
+  5 :set shiftwidth=4
+  6 :set softtabstop=4
+  7 :set expandtab
+  8 :set lazyredraw
